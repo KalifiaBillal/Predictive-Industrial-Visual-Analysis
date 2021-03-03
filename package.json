@@ -27,7 +27,7 @@
 		"passport": "*",
 		"request": "^2.65.0",
 		"watson-developer-cloud": "^1.2.4",
-		"pug": "2.0.0-beta11"
+		"pug": "3.0.1"
 	},
 	"repository": {},
 	"engines": {
